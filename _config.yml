@@ -1,0 +1,28 @@
+# _config.yml for GitHub Pages
+
+title: "My Projects"
+description: "A collection of my notable engineering projects."
+theme: jekyll-theme-minimal
+baseurl: "" # Leave empty if this is the root page
+url: "https://salhina.github.io" # Your GitHub Pages URL
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+
+# Projects section
+projects:
+  - name: "Serial Frequency Generator and Oscilloscope"
+    description: "A PyQt5 application for signal generation and visualization using an ESP32 and Arduino."
+    link: "https://salhina.github.io/serial-frequency-generator-oscilloscope/"
+
+  - name: "MATLAB GUI: Radiation Pattern of Dipole Antenna Arrays"
+    description: "Interactive MATLAB tool to visualize antenna radiation patterns and phased arrays."
+    link: "https://salhina.github.io/Matlab-Gui-Radiation-pattern-Dipole-Antenna-Array/"
+
+  - name: "Tkinter Servo Control GUI"
+    description: "A Python GUI for controlling two servos, integrating Tkinter and Arduino."
+    link: "https://github.com/salhina/ard_tkinter_servo"

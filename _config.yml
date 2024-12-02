@@ -3,7 +3,8 @@
 title: "My Projects"
 description: "A collection of my notable engineering projects."
 # theme: jekyll-theme-minimal
-remote_theme: "pages-themes/minimal"
+# remote_theme: "pages-themes/minimal"
+theme: jekyll-theme-leap-day  # Example theme, you can change this to your preferred theme
 baseurl: "" # Leave empty if this is the root page
 url: "https://salhina.github.io" # Your GitHub Pages URL
 

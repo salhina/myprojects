@@ -11,7 +11,7 @@ Explore some of my notable projects:
 3. [Tkinter Servo Control GUI](https://github.com/salhina/ard_tkinter_servo)  
    A Python-based GUI application for controlling two servos using Arduino and Tkinter.
 
-4. [Embedded UPS Controller with Web-Based HMI](https://salhina.github.io/Embedded-Controller-for-UPS-System-with-Web-Based-HMI/)
+4. [Embedded UPS Controller with Web-Based HMI](https://salhina.github.io/Embedded-Controller-for-UPS-System-with-Web-Based-HMI/)   
    A end-of-year capstone project at Sidi Mohammed Ben Abdellah University, Fez.
 
 ---

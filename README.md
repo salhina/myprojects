@@ -1,4 +1,4 @@
-# My Projects
+# Projects Showcase
 
 Explore some of my notable projects:
 
